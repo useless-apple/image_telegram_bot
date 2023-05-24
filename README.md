@@ -10,7 +10,7 @@ git clone https://github.com/useless-apple/image_telegram_bot.git
 ```
 Переходим в рабочий каталог
 ```
-cd ptlab-test
+cd image_telegram_bot
 ```
 Устанавливаем виртуальное окружение
 ```
